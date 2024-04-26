@@ -1,6 +1,6 @@
 # IntoInToOut
 
-Repo for the interactive installation INTO IN TO OUT, developed for Goldsmiths University of London
+Repo for the interactive installation INTO IN TO OUT, developed for Goldsmiths University of London in partnership with Rafa Roeder
 
 **In short**
 
